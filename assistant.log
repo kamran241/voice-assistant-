@@ -1,0 +1,16 @@
+2025-04-25 17:43:41,060 - desktop_assistant - ERROR - OpenRouter API key not found in environment variables
+2025-04-25 17:45:10,018 - desktop_assistant - ERROR - XER0BIT API key not found in environment variables
+2025-04-25 17:47:00,221 - desktop_assistant - ERROR - XER0BIT API key not found in environment variables
+2025-04-25 17:48:19,603 - desktop_assistant - ERROR - XER0BIT API key not found in environment variables
+2025-04-25 17:49:29,125 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\kamra\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 17:49:29,126 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\kamra\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-04-25 17:49:30,667 - desktop_assistant - INFO - Initializing computer vision models...
+2025-04-25 17:49:30,668 - desktop_assistant - INFO - Vision models initialized successfully
+2025-04-25 17:50:23,973 - comtypes.client._code_cache - INFO - Imported existing <module 'comtypes.gen' from 'C:\\Users\\kamra\\AppData\\Local\\Programs\\Python\\Python313\\Lib\\site-packages\\comtypes\\gen\\__init__.py'>
+2025-04-25 17:50:23,973 - comtypes.client._code_cache - INFO - Using writeable comtypes cache directory: 'C:\Users\kamra\AppData\Local\Programs\Python\Python313\Lib\site-packages\comtypes\gen'
+2025-04-25 17:50:25,527 - desktop_assistant - INFO - Initializing computer vision models...
+2025-04-25 17:50:25,527 - desktop_assistant - INFO - Vision models initialized successfully
+2025-04-25 17:50:25,817 - desktop_assistant - INFO - Screen monitoring started
+2025-04-25 17:50:25,848 - desktop_assistant - INFO - System monitoring started
+2025-04-25 17:50:25,848 - desktop_assistant - INFO - Desktop Assistant started and ready
+2025-04-25 17:50:25,849 - desktop_assistant - INFO - Speaking: Assistant system initialized and ready for commands.
